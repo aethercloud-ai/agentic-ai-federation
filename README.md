@@ -36,7 +36,7 @@ The goal of this project is to demonstrate federated authentication with two AI 
 
 # Web Sequence
 
-![Agentic AI Federated Authentication]([https://github.com/aethercloud-ai/agentic-ai-federation/blob/main/README.png])
+![agtentic_ai_federated_authentication_20250702](https://github.com/user-attachments/assets/9b3cc9bd-d2d6-41f9-b0c0-f0e60e965392)
 
 ## Diagram Steps:
 
