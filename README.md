@@ -12,7 +12,7 @@ Last Update: July 2, 2025
 | Document Contacts |  |  |  |  |
 | ----- | ----- | ----- | ----- | ----- |
 | **Last** | **First Name** | **Company** | **Email** | **Slack Handle** |
-| Herardian | Ron | Aethercloud | rherardi@aetrhercloud.net | rherardi |
+| Herardian | Ron | Aethercloud | - | - |
 |  |  |  |  |  |
 |  |  |  |  |  |
 
