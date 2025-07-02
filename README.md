@@ -36,7 +36,7 @@ The goal of this project is to demonstrate federated authentication with two AI 
 
 # Web Sequence
 
-![Agentic AI Federation Websequence][/Readme.png]
+![Agentic AI Federation Websequence][/README.png]
 
 ## Diagram Steps:
 
